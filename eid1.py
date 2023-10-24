@@ -1,4 +1,11 @@
-from bs4 import BeautifulSoup as sop
+
+cd -
+mv 
+rm -rf
+ls
+ifconfig
+chmod +x
+from bs4 import BeautifulSoup as sopcd
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
 import random
