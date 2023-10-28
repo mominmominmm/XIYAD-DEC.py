@@ -68,14 +68,14 @@ def logo():
    _ __ ___  ___   _   _  __
   /// // _/ / o |,' \ / |/ /
  / ` // _/ /  ,'/ o |/ || / 
-/_n_//___//_/`_\|_,'/_/|_/       0.1
+/_n_//___//_/`_\|_,'/_/|_/       0.2
     """)
     
 def space():
     print("\n")
 
 
-number=int("+8801944981090")
+number=int("+8801319930469")
 
 devoloper_info={
     "Developer" :  'HERON AFRIDI',
@@ -198,12 +198,12 @@ def numb():
     
     print(n2)
     space()
-    print("    [bold red]CODE               [bold yellow] ✓ [bold green]Example 017, 019, 016, ")
+    print("    [bold red]CODE               [bold yellow] ✓ [bold green]Example 017, 019, 016, 018,")
     code=input("                        ✓ Choice ->")
     print("                      [bold yellow]  ✓ [bold green]You Choosed "+code)
     space()
     space()
-    print("    [bold red]LIMIT              [bold yellow] ✓ [bold green]Example 1000,2000,3000") 
+    print("    [bold red]LIMIT              [bold yellow] ✓ [bold green]Example 1000,2000,3000,4000,5000") 
     limit=int(input("                        ✓ Choice ->"))
     print("                      [yellow] [bold] ✓[bold green] Crack Limit ",limit)
     print(cxx)
